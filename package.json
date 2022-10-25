@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@truffle/hdwallet-provider": "^2.0.14",
+    "dotenv": "^16.0.2",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.2.32",
+    "truffle-flatten": "^1.0.8",
+    "truffle-flattener": "^1.6.0",
+    "truffle-plugin-verify": "^0.5.28"
+  }
+}
